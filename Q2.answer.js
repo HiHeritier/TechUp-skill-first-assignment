@@ -41,10 +41,10 @@ const totalPriceWithCondition = (arr) => {
 }
 console.log(totalPriceWithCondition(item));
 
-console.log(`1.Cheap product: ${cheapProduct.name}, price: ${cheapProduct.price} dollars`)
+console.log(`1.Cheap one (product): ${cheapProduct.name}, price: ${cheapProduct.price}$`)
 
-console.log(`2.Expensive product: ${cheapProduct.name}, price: ${cheapProduct.price} dollars`);
+console.log(`2.Expensive product: ${cheapProduct.name}, price: ${cheapProduct.price}$`);
 
-console.log(`3. Full price of all products combined: ${totalPrice(item)} dollars`);
+console.log(`3. Full price of all products combined: ${totalPrice(item)}$`);
 
-console.log(`4. Full price of all product combined, products under 10 dollar removed!: ${totalPriceWithCondition(item)} dollars`);
+console.log(`4. the full price of all product combined removing product that are under the 10 dollar!: ${totalPriceWithCondition(item)}$`);
