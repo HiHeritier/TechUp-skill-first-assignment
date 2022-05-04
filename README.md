@@ -4,6 +4,7 @@ the assignment consist of to questions
 
 ## First question
 By Using HTML and CSS try to replicate as possible the following User Interface(UI)
+click here to view 👉🏼👉🏼 https://hiheritier.github.io/TechUp-skill-first-assignment/
 <img width="530" alt="Issue" src="https://user-images.githubusercontent.com/95864845/166431869-17e1d162-bf8f-434b-aaf4-d676a6514055.PNG">
 
 
